@@ -1,16 +1,8 @@
-# app
+# DIO Santander Bootcamp 2023 - Mobile com Flutter
 
-A new Flutter project.
+## Desafio
+Os objetivos neste desafio são: Instalar o Flutter​, configurar o Ambiente, criar um projeto e, por fim, subir o seu projeto do GitHub.
 
-## Getting Started
+## Print do aplicativo
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screen0](https://raw.githubusercontent.com/nathanael540/dio-flutter-app/main/screen-0.png)![Screen29](https://raw.githubusercontent.com/nathanael540/dio-flutter-app/main/screen-29.png)
